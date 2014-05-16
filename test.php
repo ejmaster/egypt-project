@@ -26,6 +26,7 @@ function showHint(str) {
 body
 {
 color:white;
+}
 </style>
 </head>
 <body background="img/xpyramid.png">
